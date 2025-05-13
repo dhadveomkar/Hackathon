@@ -29,7 +29,7 @@ The *Quote Generator* is a simple yet elegant web application that displays rand
 - *Git & GitHub*
 - *Visual Studio Code*
 
-![Initial State](https://github.com/dhadveomkar/Hackathon/blob/main/WhatsApp%20Image%202025-05-13%20at%2014.51.45_dddd0ffd.jpg?raw=true)
+![Initial State](image2.jpg)
 
 
 ---
