@@ -1,6 +1,6 @@
 # 🌟 Quote Generator
 
-![Quote Generator Screenshot](./deb2cd61-9437-4669-9a84-2adbad8ad7ed.png)
+http://hacksquad7.s3-website.ap-south-1.amazonaws.com
 
 > "Life is what happens when you're busy making other plans." — *John Lennon*
 
