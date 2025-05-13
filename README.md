@@ -4,7 +4,7 @@ http://hacksquad7.s3-website.ap-south-1.amazonaws.com
 
 > "Life is what happens when you're busy making other plans." — *John Lennon*
 
-![Initial State](https://github.com/dhadveomkar/Hackathon/blob/main/WhatsApp%20Image%202025-05-13%20at%2014.51.45_50b65e7c.jpg?raw=true)
+![Initial State](image1.jpg)
 
 
 
