@@ -25,4 +25,12 @@ The *Quote Generator* is a simple yet elegant web application that displays rand
 - *Git & GitHub*
 - *Visual Studio Code*
 
+## 🖼 Screenshots
+
+### Initial State
+![Initial State](img1.jpg)
+
+### After Generating a Quote
+![Quote Display](imag2.jpg)
+
 ---
