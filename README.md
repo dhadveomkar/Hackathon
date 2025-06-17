@@ -1,6 +1,8 @@
 # 🌟 Quote Generator
 
-http://hacksquad7.s3-website.ap-south-1.amazonaws.com
+AWS Live Link: http://hacksquad7.s3-website.ap-south-1.amazonaws.com
+
+GitHub Live Link:  https://dhadveomkar.github.io/Hackathon/
 
 > "Life is what happens when you're busy making other plans." — *John Lennon*
 
